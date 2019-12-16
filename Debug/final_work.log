@@ -1,0 +1,30 @@
+﻿  test.cpp
+d:\vs\项目\final_work\final_work\test.cpp(53): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(54): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(55): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(65): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(66): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(137): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(151): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(177): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(187): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(198): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(208): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(219): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(222): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(232): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(237): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(245): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(250): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(259): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(264): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(272): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(277): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(287): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(303): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(315): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(326): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(355): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(376): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\test.cpp(395): warning C4326: “main”的返回类型应为“int”而非“void”
+  final_work.vcxproj -> D:\vs\项目\final_work\Debug\final_work.exe

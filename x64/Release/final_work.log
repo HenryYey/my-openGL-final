@@ -1,0 +1,91 @@
+﻿  drawer.cpp
+d:\vs\项目\final_work\final_work\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(113): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(114): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(115): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(116): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(122): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(123): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(124): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(125): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(131): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(132): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(133): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(134): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(140): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(141): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(142): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(143): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(149): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(150): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(151): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(152): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(158): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(159): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(160): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(161): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(168): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(169): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(170): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(171): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(176): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(177): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(178): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(179): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(184): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(185): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(186): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(187): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(192): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(193): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(194): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(195): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(200): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(201): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(202): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(203): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(208): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(209): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(210): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(211): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(243): warning C4305: “参数”: 从“double”到“GLclampf”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(244): warning C4305: “参数”: 从“double”到“GLclampf”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(260): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(279): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(289): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(292): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(307): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(308): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(322): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(339): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(412): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(434): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(457): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\drawer.cpp(463): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(464): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\drawer.cpp(465): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  main.cpp
+d:\vs\项目\final_work\final_work\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\vs\项目\final_work\final_work\main.cpp(45): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\vs\项目\final_work\final_work\main.cpp(74): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+d:\vs\项目\final_work\final_work\main.cpp(90): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  3 of 448 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  final_work.vcxproj -> D:\vs\项目\final_work\x64\Release\final_work.exe
